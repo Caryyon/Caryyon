@@ -1,14 +1,14 @@
 ### Yo, names Cary!
 
+Thanks for stopping by the old GitHub page, whatever bug or issue linked you here I swear it wasn't me.
 Never really sure how up to date this will be, but here are a few things I've been working on:
 
-- 🔭 I’m currently working on [cheerful-ui](https://github.com/Caryyon/cheerful-ui)
-- 🌱 I’m currently learning [rust-lang](https://github.com/rust-lang/rust)
-- 👯 I’m looking to collaborate on anything, I love working with other folks.
-- 🤔 I’m looking for help with principal engineering mentorship.
+- 🔭 I’m currently working on [Koap](https://koap.vercel.app)
+- 🌱 I’m currently learning when ever I can [rust-lang](https://github.com/rust-lang/rust)
+- 👯 I’m looking to collaborate on anything, I love working with other folks!
 - 💬 Ask me about anything you would like to know about me.
 - 📫 How to reach me: boss@caryyon.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can beatbox pretty well...
+- ⚡ Fun fact: I can beatbox pretty well.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caryyon&show_icons=true&count_private=true&theme=dracula)

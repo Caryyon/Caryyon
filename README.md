@@ -31,4 +31,3 @@ Builder, tinkerer, hunter, dad. I make things for the web and the terminal.
 - **Pronouns:** he/him
 - **Fun fact:** I can beatbox pretty well.
 
-![GitHub Contribution Chart](https://ghchart.rshah.org/6366f1/Caryyon)
